@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/virdze/UNI/LI3/PROJECTS/grupo10/project_c Select CMakeLists.txt
